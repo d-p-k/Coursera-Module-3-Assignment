@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    background-color: rgb(200, 200, 200);
+}
+
+.desc {
+    text-align: justify;
+}
+
+#chicken, #beef, #sushi {
+    background-color: rgb(200, 200, 200);
+    padding: 30px 50px;
+    margin-bottom: 20px;
+}
+
+span a {
+    text-decoration: none;
+}
+
